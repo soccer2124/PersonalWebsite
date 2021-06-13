@@ -26,8 +26,8 @@ My Picture:
 
 Social Media:
 
-
 Email - anarayan@ebnet.org
+
 Github - soccer2124
 
 
