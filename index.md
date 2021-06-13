@@ -17,6 +17,8 @@ My name is Amitav Narayan. I'm a rising junior at East Brunswick High School int
 ### Personal Information
 
 My Picture: 
+
+
 ![image](https://user-images.githubusercontent.com/85412707/121820893-32bce180-cc63-11eb-8836-c2ef57fc77ea.png)
 
 Social Media:
